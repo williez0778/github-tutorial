@@ -13,7 +13,7 @@ The Initial Setup starts with an IDE. IDE is used for command lines, file trees,
 ### Set up
 You have to create a github account or log in
 Open up ide.cs50.io that's top open up the ide
-Then follow the steps on https://github.com/hstatsep/ide50
+Then follow the steps on (https://github.com/hstatsep/ide50)
 
 ---
 ## Repository Setup
