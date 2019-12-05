@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Willie Zou>_
+_by Willie Zou_
 
 ---
 ## Git vs. GitHub
