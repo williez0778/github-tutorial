@@ -11,9 +11,9 @@ Git is a place where you code you can create directories and files put words in 
 ## Initial Setup
 The Initial Setup starts with an IDE. IDE is used for command lines, file trees, text editor, and preview.
 ### Set up
-You have to create a github account or log in
-Open up ide.cs50.io that's top open up the ide
-Then follow the steps on (https://github.com/hstatsep/ide50)
+* You have to create a github account or log in to github
+* Open up ide.cs50.io that's to open up the ide
+* Then follow the steps on (https://github.com/hstatsep/ide50)
 
 ---
 ## Repository Setup
